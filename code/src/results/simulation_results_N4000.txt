@@ -1,0 +1,6 @@
+Average Bias for v: nan
+Average Bias for a: nan
+Average Bias for t: nan
+Average Squared Error for v: nan
+Average Squared Error for a: nan
+Average Squared Error for t: nan
